@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ray%20Joshi/Desktop/MLFlow/mlruns/759510635652343196/bb940ffcd4cd41f184a6f43bffc5696e/artifacts
+end_time: 1689804467026
+entry_point_name: ''
+experiment_id: '759510635652343196'
+lifecycle_stage: active
+run_id: bb940ffcd4cd41f184a6f43bffc5696e
+run_name: worried-boar-700
+run_uuid: bb940ffcd4cd41f184a6f43bffc5696e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689804465171
+status: 3
+tags: []
+user_id: Ray Joshi

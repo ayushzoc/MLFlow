@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ray%20Joshi/Desktop/MLFlow/mlruns/759510635652343196/df27e653918b4da4845969f0c8ea1c2f/artifacts
+end_time: 1689804412831
+entry_point_name: ''
+experiment_id: '759510635652343196'
+lifecycle_stage: active
+run_id: df27e653918b4da4845969f0c8ea1c2f
+run_name: thundering-stoat-156
+run_uuid: df27e653918b4da4845969f0c8ea1c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689804408308
+status: 4
+tags: []
+user_id: Ray Joshi
