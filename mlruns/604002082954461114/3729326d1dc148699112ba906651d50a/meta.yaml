@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ray%20Joshi/Desktop/MLFlow/mlruns/604002082954461114/3729326d1dc148699112ba906651d50a/artifacts
+end_time: 1689954753344
+entry_point_name: ''
+experiment_id: '604002082954461114'
+lifecycle_stage: active
+run_id: 3729326d1dc148699112ba906651d50a
+run_name: kindly-colt-630
+run_uuid: 3729326d1dc148699112ba906651d50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689954747540
+status: 3
+tags: []
+user_id: Ray Joshi

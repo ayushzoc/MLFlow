@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ray%20Joshi/Desktop/MLFlow/mlruns/759510635652343196/15755fba938149a1b2d24298daed77a1/artifacts
+end_time: 1689889517535
+entry_point_name: ''
+experiment_id: '759510635652343196'
+lifecycle_stage: active
+run_id: 15755fba938149a1b2d24298daed77a1
+run_name: sedate-auk-635
+run_uuid: 15755fba938149a1b2d24298daed77a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689889511391
+status: 3
+tags: []
+user_id: Ray Joshi
